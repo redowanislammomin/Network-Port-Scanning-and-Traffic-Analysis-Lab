@@ -1,0 +1,7 @@
+# Nmap 7.95 scan initiated Mon May  4 20:13:06 2026 as: nmap -sX -Pn -oN xmas_result.txt -p 1-999 10.49.138.198
+Nmap scan report for 10.49.138.198
+Host is up.
+All 999 scanned ports on 10.49.138.198 are in ignored states.
+Not shown: 999 open|filtered tcp ports (no-response)
+
+# Nmap done at Mon May  4 20:16:27 2026 -- 1 IP address (1 host up) scanned in 201.33 seconds

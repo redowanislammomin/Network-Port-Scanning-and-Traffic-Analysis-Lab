@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon May  4 20:08:24 2026 as: nmap -sn -oN ping_result.txt 10.49.138.198
+Nmap scan report for 10.49.138.198
+Host is up (0.051s latency).
+# Nmap done at Mon May  4 20:08:24 2026 -- 1 IP address (1 host up) scanned in 0.09 seconds
